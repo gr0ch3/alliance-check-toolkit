@@ -38,3 +38,4 @@ benchs/AM2901/standart_cells/cmos/runs
 
 .ipynb_checkpoints
 .vscode
+.DS_Store
