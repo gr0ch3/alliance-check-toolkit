@@ -35,6 +35,9 @@ benchs/snx/phenitec06_3
 benchs/snx/phenitec06_20190926_submit
 benchs/ARM/cmos/runs/
 benchs/AM2901/standart_cells/cmos/runs
+*.spi
+*.ys
+*.drc
 
 .ipynb_checkpoints
 .vscode
